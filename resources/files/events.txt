@@ -1,0 +1,9 @@
+Name: Art Auction
+Date: March 26, 2015
+Image: logo-filter.jpg
+Description: This is the art auction description. This event will be lots of fun for everyone and everything will be the best that it's ever been.
+
+Name: Youth Conference
+Date: April 9, 2015
+Image: logo.jpg
+Description: The youth conference will be an opportunity for high schoolers to interact with EWB and learn things about development that they didn't know about. They will also build critical thinking and leadership skills.
