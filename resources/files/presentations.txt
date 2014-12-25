@@ -1,7 +1,5 @@
 Name: Water 4 the World
-Image: logo-filter.jpg
 Description: Description of the Water 4 the World presentation. Julia will be providing further details.
 
 Name: Media Perspectives on Africa
-Image: logo.jpg
 Description: Description of the Media Perspectives presentation. Julia will be providing further details.
